@@ -1,0 +1,32 @@
+https://link.springer.com/chapter/10.1007/978-1-4757-3357-0_9
+https://dl.acm.org/doi/10.1145/347792.347814
+http://www.computerscijournal.org/vol7no3/implementing-divide-and-conquer-technique-for-a-big-data-traffic/
+https://www.mdpi.com/1999-4893/12/7/127/htm
+
+Studime te engjinjerise se trafikut
+http://site.iugaza.edu.ps/wp-content/uploads/file/ECIV43332012/
+http://site.iugaza.edu.ps/wp-content/uploads/file/ECIV43332012/Ch%2004%20Traffic-Engineering%20Studies.pdf
+
+Algoritme
+Effective Vehicle Tracking Algorithm for Smart Traffic Networks (davidanastasiu.net)
+
+Perpunim i Big Data
+https://www.selecthub.com/big-data-analytics/big-data-integration/
+https://www.educba.com/data-mining-process/
+
+Video for data cube
+https://www.bing.com/videos/search?q=data+cube+for+analysis&docid=608003146877914382&mid=22E4BC8D4CDE1B90831522E4BC8D4CDE1B908315&view=detail&FORM=VIRE
+
+k-mean algorithm dhe nje implementim ne Java
+https://www.educba.com/k-means-clustering-algorithm/
+https://kidskangla.wordpress.com/2019/02/23/simple-k-means-algorithm-in-java/
+
+algoritmi largest minimum distance
+https://www.geeksforgeeks.org/place-k-elements-such-that-minimum-distance-is-maximized/
+
+hierarchical clustering
+https://www.mygreatlearning.com/blog/hierarchical-clustering/#hierarchicalclustering
+
+Algoritme per MST
+http://www.inf.ed.ac.uk/teaching/courses/ds/slides1617/mst.pdf
+
